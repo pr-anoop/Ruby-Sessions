@@ -1,10 +1,11 @@
+require "./sample.rb"
+
 class Demo 
 
-require "./sample.rb"
-include Sample
+extend Sample
 
 	def test
-		puts circle 2
+		puts Demo.circle 2
 	end
 
 end
