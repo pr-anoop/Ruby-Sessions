@@ -11,6 +11,5 @@ extend Sample
 end
 
 
-
 obj = Demo.new
 obj.test
