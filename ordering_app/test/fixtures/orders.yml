@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  order_date: 2014-07-18 13:00:51
+  shipped_date: 2014-07-18 13:00:51
+  amount: 1.5
+
+two:
+  order_date: 2014-07-18 13:00:51
+  shipped_date: 2014-07-18 13:00:51
+  amount: 1.5
